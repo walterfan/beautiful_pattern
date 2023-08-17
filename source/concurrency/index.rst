@@ -9,6 +9,7 @@ Design Pattern
 
    overview
    reactor
+   proactor
 
    active_object
    monitor_object
